@@ -46,7 +46,8 @@ Ability to download reports as .txt files for record-keeping or analysis.
 
 ## Output
 
-![Image](https://github.com/user-attachments/assets/a03e141b-6a1c-41b8-b560-eb42e0f279be)
+![image](https://github.com/user-attachments/assets/7f02a550-6422-4f88-a409-260a69d0771c)
+
 =======
 # Chrome-Extension-for-Productivity.
 This Chrome Extension helps users boost productivity by tracking time spent on websites and providing insightful analytics. It runs in the background, categorizing websites as productive (e.g., coding, learning) or unproductive (e.g., social media), helping users monitor and manage their browsing habits.
