@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# ⏱️ Time Tracker & Productivity Analytics Chrome Extension
+
+# Time Tracker & Productivity Analytics Chrome Extension
 
 COMPANY: CODETECH IT SOLUTION
 
